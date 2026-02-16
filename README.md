@@ -47,3 +47,16 @@ Resolved by switching to CDB$ROOT.
 
 ## Integrity Statement
 I confirm that this assignment was completed individually and reflects my own practical execution.
+
+## Final Checklist
+
+- [x] Correct PDB names used
+- [x] User created inside the PDB   
+- [x] Temporary PDB created successfully and deleted
+- [x] OEM dashboard screenshot included
+- [x] README.md documented professionally
+- [x] GitHub repository set to PUBLIC
+- [x] Deadline respected
+
+
+
