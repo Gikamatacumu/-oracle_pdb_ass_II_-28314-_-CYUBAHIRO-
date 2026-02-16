@@ -43,5 +43,7 @@ Verified PDBs and container structure.
 Initially encountered ORA-65040 error due to being inside a PDB.
 Resolved by switching to CDB$ROOT.
 
+<img width="1366" height="768" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/3158674b-a50b-40b3-8b5a-d6cc9ac7868b" />
+
 ## Integrity Statement
 I confirm that this assignment was completed individually and reflects my own practical execution.
